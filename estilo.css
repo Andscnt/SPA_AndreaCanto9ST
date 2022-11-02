@@ -485,7 +485,7 @@ footer p{
     }
     .logo figure{
         max-width: 150px;
-        gap: 200px;
+        gap: 180px;
     }
     .barras{
         display: block;
@@ -555,19 +555,19 @@ footer p{
         height: 250px;
     }
     .galeriader img{
-       width: 420px;
+       width: 393px;
        height: 250px;
     }
     .galeriaizq div figure{
-        max-width: 420px;
+        max-width: 393px;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .galeriaizq figure{
-        max-width: 420px;
+        max-width: 393px;
     }
     .galeriaizq img{
-        max-width: 420px;
+        max-width: 400px;
         width: 100%;
     }
 }
